@@ -43,6 +43,11 @@
  ============================================================================================================
 */
 
+// All 900 different combinations of Time-Zone Programming Code Blocks will need to be programmed into this file at some point so that it works on any server located in any
+// Time-Zone in the world. Currently there are ~30 Time-Zones in the Universal Coordinated Time System. 30 * 30 = 900. This File should be about 1.5 MegaBytes
+// in file size after it is finished. For now only the Pacific Standard Time UTC -08:00 has been programmed in. Unless I can figure out a simpler way of doing this
+// with some mathematics.
+
 /*
  ============================================================================================================
  +
